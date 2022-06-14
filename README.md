@@ -20,7 +20,7 @@ The game is about playing around with shapes and the program tells the user some
 - name and description of the shape till quadrilaterals
   
 
-## Highlights
+## Highlights
 ![2PNG](https://raw.githubusercontent.com/Umbe-Exe/GeometryGame/master/readmeImgs/settings.PNG)
 
 ![2PNG](https://raw.githubusercontent.com/Umbe-Exe/GeometryGame/master/readmeImgs/capture1.PNG)
